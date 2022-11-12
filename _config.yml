@@ -1,13 +1,65 @@
-title: İsmail Ege Turhan
-email: your-email@example.com
-description: >-
-  Write an awesome description for your new site here. You can edit this line in
-  _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
-baseurl: ''
+markdown: kramdown
 url: ''
-twitter_username: jekyllrb
-github_username: jekyll
-theme: minima
+baseurl: null
+title: İsmail Ege Turhan
+description: >-
+  Benim bütün ilgim gelecektedir, çünkü hayatımın geri kalanını orada
+  geçireceğim.
+site-image: /WhatATheme/assets/images/meta.jpg
+site-keywords: 'Uşak, Melek Su Koleji, Lise, İsmail Ege Turhan'
+favicon-url: null
+heroimage: >-
+  https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
+email: info@ismailege.com.tr
+facebook_username: ''
+twitter_username: ''
+instagram_username: stwegee
+linkedin_username: ''
+github_username: ismailegeturhan
+youtube_channel_id: ''
+dribbble_username: ''
+google-analytics: ''
+disqus-shortname: ''
+author-name: İsmail Ege Turhan
+author-image: >-
+  https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png
+author-about: >-
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eget
+  pharetra velit, dapibus bibendum ex. Maecenas vitae laoreet mauris, ac luctus
+  metus. Aliquam luctus velit vel ipsum feugiat, vel venenatis mauris hendrerit.
+  Sed at vulputate sapien, eget vehicula dolor. Aliquam volutpat pulvinar neque
+  sit amet sodales.
+author-url: 'https://github.com/ismailege'
+sass:
+  sass_dir: _sass
+  style: compressed
 plugins:
+  - jekyll-admin
   - jekyll-feed
+permalink: 'blog/:title'
+compress_html:
+  clippings: all
+defaults:
+  - scope:
+      type: posts
+    values:
+      layout: post
+      post-image: ''
+      description: ''
+      tags:
+        - ''
+  - scope:
+      type: pages
+    values:
+      layout: page
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
