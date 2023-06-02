@@ -1,7 +1,3 @@
-<center>Merhaba Arkadaşlar 👋</center>
-
-<center>Yüksek Atlama Sunumuna Hoşgeldşiniz...</center>
-
 <center><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSV6NT0YQNtRu9wYl9MLzlY55YH3VQbj6AZ7itqmSmTN1Ffk8jEgyBvtvBbUaMfeZ8yT1PkUxB9rS-M/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></center>
 <!--
 **ismailegeturhan/ismailegeturhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
