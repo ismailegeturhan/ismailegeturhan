@@ -2,7 +2,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <style>
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 100%) {
 
   body {
 
