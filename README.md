@@ -1,8 +1,9 @@
 <meta name="viewport" content="" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<center><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSV6NT0YQNtRu9wYl9MLzlY55YH3VQbj6AZ7itqmSmTN1Ffk8jEgyBvtvBbUaMfeZ8yT1PkUxB9rS-M/embed?start=false&loop=false&delayms=10000" frameborder="0" width="100%" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></center>
+<center><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRuPwNRYQxctEyKQMuVF5uJIq866IcRt9iZw7XHhRJ47Mm0XazPtb0_iiOMEQD2AWAuewV-aW0ObD-r/embed?start=false&loop=false&delayms=10000" frameborder="0" width="100%" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></center>
 <!--
 **ismailegeturhan/ismailegeturhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+YÜKSEK ATLAMA EMBED SHARE LİNK : https://docs.google.com/presentation/d/e/2PACX-1vSV6NT0YQNtRu9wYl9MLzlY55YH3VQbj6AZ7itqmSmTN1Ffk8jEgyBvtvBbUaMfeZ8yT1PkUxB9rS-M/embed?
 
 Here are some ideas to get you started:
 
